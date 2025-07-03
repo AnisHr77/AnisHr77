@@ -61,6 +61,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnisHr77&theme=tokyonight" alt="Streak" />
-</p>
+  
 
