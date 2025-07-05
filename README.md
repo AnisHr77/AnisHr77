@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **a smart ticket booking bot and a modern Freelance site**
 - 🌱 I’m currently learning **Laravel** and **Blade**
 - 💬 Ask me about **React, Node.js, Tailwind, Laravel, Express**
-- 📫 Reach me at: **anis28hr0@gmail.com**
+- 📫 Reach me at: **anis28hr@gmail.com**
 
 ---
 
