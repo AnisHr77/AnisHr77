@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=AnisHr77&label=Profile%20views&color=0e75b6&style=flat" alt="AnisHr77" />
 </p>
 
-- 🔭 I’m currently working on **a smart ticket booking bot and a modern e-commerce site**
+- 🔭 I’m currently working on **a smart ticket booking bot and a modern Freelance website**
 - 🌱 I’m currently learning **Laravel** and **Blade**
 - 💬 Ask me about **React, Node.js, Tailwind, Laravel, Express**
 - 📫 Reach me at: **anis28hr0@gmail.com**
