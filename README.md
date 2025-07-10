@@ -60,7 +60,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnisHr77&theme=tokyonight" alt="Streak" />
+  
 </p>
 
 <img src="https://raw.githubusercontent.com/anesszereg/anesszereg/output/snake.svg" alt="Snake animation" />
