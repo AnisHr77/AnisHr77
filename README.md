@@ -56,4 +56,4 @@
 
 <img src="https://raw.githubusercontent.com/anesszereg/anesszereg/output/snake.svg" alt="Snake animation" />
 
-
+<>
