@@ -11,5 +11,5 @@
 
 
 
-<img src="https://raw.githubusercontent.com/anesszereg/anesszereg/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AnisHr77/AnisHr77/output/snake.svg" alt="Snake animation" />
 
