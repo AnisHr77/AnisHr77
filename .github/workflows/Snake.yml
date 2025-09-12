@@ -14,13 +14,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVGs
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG (light + dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AnisHr77
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
