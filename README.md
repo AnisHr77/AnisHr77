@@ -11,6 +11,6 @@
 
 
 
-[<img src="https://raw.githubusercontent.com/AnisHr77/AnisHr77/output/snake-dark.svg" alt="Snake animation" />](https://raw.githubusercontent.com/AnisHr77/AnisHr77/output/snake-dark.svg)
+<img src="https://raw.githubusercontent.com/AnisHr77/AnisHr77/output/snake-dark.svg" alt="GitHub Contribution Snake" />
 
 
