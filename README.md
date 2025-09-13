@@ -11,7 +11,12 @@
 
 
 
-<img src="https://raw.githubusercontent.com/AnisHr77/AnisHr77/output/snake-dark.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnisHr77/AnisHr77/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnisHr77/AnisHr77/output/snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AnisHr77/AnisHr77/output/snake.svg">
+</picture>
+
 
 
 
