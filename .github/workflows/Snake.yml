@@ -2,8 +2,8 @@ name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:      # allow manual runs
+    - cron: "0 0 * * *"   # runs every day at 00:00 UTC
+  workflow_dispatch:
   push:
     branches: ["main"]
 
@@ -14,16 +14,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate snake SVG (dark)
+      - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: AnisHr77
           outputs: |
-            dist/snake-dark.svg
-          palette: github-dark  
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
