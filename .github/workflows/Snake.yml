@@ -1,11 +1,11 @@
-name: Generate Contribution Snake
+name: Generate contribution snake
 
 on:
+  schedule:
+    - cron: "0 0 * * *"   
+  workflow_dispatch:
   push:
     branches: ["main"]
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"  
 
 permissions:
   contents: write
@@ -13,31 +13,19 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-    
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-     
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AnisHr77
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg
+            dist/snake-dark.svg?palette=github-dark
 
-      - name: List generated files
-        run: ls -la dist
-
-     
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output       
-          build_dir: dist             
-          commit_message: "Update snake SVGs"
-          keep_files: false          
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
