@@ -9,6 +9,6 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdedjalilKaci/AbdedjalilKaci/output/snake-dark.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AbdedjalilKaci/AbdedjalilKaci/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnisHr77/AnisHr77/output/snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AnisHr77/AnisHr77/output/snake.svg">
 </picture> 
