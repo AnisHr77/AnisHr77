@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master   
+      - master   # change to 'main' if your default branch is main
 
 jobs:
   generate:
@@ -33,7 +33,8 @@ jobs:
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.PAT_TOKEN }} 
+          github_token: ${{ secrets.PAT_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
+          force_orphan: true
