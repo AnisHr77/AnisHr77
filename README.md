@@ -4,7 +4,7 @@
 
 | Frontend | Backend | Database | Tools & Platforms |
 |----------|---------|----------|-------------------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,reactnative" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,laravel,blade" height="40"/> | <img src="https://skillicons.dev/icons?i=mysql" height="40"/> | <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,aftereffects,illustrator" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,laravel,blade" height="40"/> | <img src="https://skillicons.dev/icons?i=mysql" height="40"/> | <img src="https://skillicons.dev/icons?i=git,github,figma,,expo,aftereffects,illustrator,phpstorm,webstorm" height="40"/> |
 
 </div>
 
