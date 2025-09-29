@@ -2,11 +2,14 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"   
   workflow_dispatch:
   push:
     branches:
-      - master   # change to 'main' if your default branch is main
+      - master  
+
+permissions:
+  contents: write   
 
 jobs:
   generate:
@@ -33,7 +36,7 @@ jobs:
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.PAT_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}  
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
