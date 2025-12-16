@@ -19,5 +19,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://wa.me/213659186838">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnisHr77/AnisHr77/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnisHr77/AnisHr77/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AnisHr77/AnisHr77/output/github-snake.svg">
+</picture>
 </a>
