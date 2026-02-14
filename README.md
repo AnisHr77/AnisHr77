@@ -5,9 +5,10 @@
 ---
 
 
-| Frontend | Backend | Database | Tools & Platforms |
-|----------|---------|----------|-------------------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,laravel" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,laravel" height="40"/> | <img src="https://skillicons.dev/icons?i=mysql" height="40"/> | <img src="https://skillicons.dev/icons?i=git,github,figma,aftereffects,illustrator,phpstorm,webstorm" height="40"/> |
+| Frontend | Backend | Database | AI / Data Science | Tools & Platforms |
+|----------|---------|----------|-------------------|------------------|
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,laravel" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,laravel" height="40"/> | <img src="https://skillicons.dev/icons?i=mysql" height="40"/> | <img src="https://skillicons.dev/icons?i=python" height="40"/> <br/> Py, Pandas, NumPy | <img src="https://skillicons.dev/icons?i=git,github,figma,aftereffects,illustrator,phpstorm,webstorm" height="40"/> |
+
 
 ---
 
