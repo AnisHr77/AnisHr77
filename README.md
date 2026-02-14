@@ -7,7 +7,7 @@
 
 | Frontend | Backend | Database | AI / Data Science | Tools & Platforms |
 |----------|---------|----------|-------------------|------------------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,laravel" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,laravel" height="40"/> | <img src="https://skillicons.dev/icons?i=mysql" height="40"/> | <img src="https://skillicons.dev/icons?i=python" height="20"/> <br/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> | <img src="https://skillicons.dev/icons?i=git,github,figma,aftereffects,illustrator,phpstorm,webstorm" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,laravel" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,laravel" height="40"/> | <img src="https://skillicons.dev/icons?i=mysql" height="40"/> | <img src="https://skillicons.dev/icons?i=python" height="20"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> | <img src="https://skillicons.dev/icons?i=git,github,figma,aftereffects,illustrator,phpstorm,webstorm" height="40"/> |
 
 
 
