@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🌐 <a href="https://anishr777.netlify.app/">AnisTech</a>
+
 
 ---
 
